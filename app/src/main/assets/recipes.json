@@ -1,0 +1,12 @@
+{ "myinfo":
+  [ 
+    { "item": "Name:", "detail": "Qianwen(Wendy)" },
+    { "item": "Sex:", "detail": "Female" },
+    { "item": "Profile:", "detail": "I am currently majoring in Computer Engineering in SJSU. I have a comprehensive software engineering background with national scholarship in BS study. I have demonstrated strong academic performance in machine learning with three paper published. Besides, my emphasis is on front-end and data visualization when I do the Intern in amazon. I have extensive knowledge of jQuery,Ajax,Bootstrap, worked with the front-end frameworks, such as Angular, React and familiar with MEAN stack (MongoDB,Express,Angular,Node) and back-end framework like PHP Laravel.", "api": "API level 11 - 13" },
+    { "item": "Education(Master):", "detail": "San Jose State University - Computer Engineering "},
+    { "item": "Education(Bacholar)", "detail": "Beijing University Chemical Technology - Electornic Engineering" },
+    { "item": "Employment(Amazon China Kindle Lab126)", "detail": "Software Engieering Intern: Implemented data visualization websites for factory data using PHP Laravel Framework, D3.js and MySQL."},
+    { "item": "Employment(Yanset Inc.)", "detail": "Front-end Intern: Created cloud-based career planning page for mentee scheduling using Angular.js / Node.js."},
+    { "item": "Employment(Beijing DataTang Inc.):", "detail": "Software Engineering Intern: Data processing including image annotation, cutting and crawling, text de-duplication, natural language processing and classification using Python and Java.Designed and developed web crawler system parsing JSON and XML files using Python."}
+  ] 
+}

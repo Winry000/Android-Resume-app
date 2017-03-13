@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.winryxie.myresume.ContactFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:id="@+id/contact_view"
+        android:layout_width="match_parent"
+        android:layout_height="143dp"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_item1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textSize="18sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Contact info" />
+        <TextView
+            android:id="@+id/tv_item2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address: Mountain View, CA 94040, US"
+                           />
+        <TextView
+            android:id="@+id/tv_item3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phone: 1-408-239-6717"
+            />
+        <TextView
+            android:id="@+id/tv_item4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Email: qianwen.xie@sjsu.edu"
+            />
+        <!--<TextView-->
+        <!--android:id="@+id/tv_api_level"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/reading"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/reading"
+        android:layout_below="@+id/contact_view"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

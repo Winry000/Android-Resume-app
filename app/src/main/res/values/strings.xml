@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyResume</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="google_maps_api_key">AIzaSyCsf8_W8SUNK7uSdmysvW2z8RgmtaMyAc8</string>
+</resources>
